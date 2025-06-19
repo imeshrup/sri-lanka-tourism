@@ -1,5 +1,7 @@
 # 🇱🇰 Sri Lanka Tourism Website
-![Uploading Screenshot (379).png…]()
+
+![Screenshot (379)](https://github.com/user-attachments/assets/b1a390b3-8d48-4415-8400-862331314ae4)
+
 
 A modern, responsive website built with **Vite** and **React** to promote the beautiful travel destinations, culture, and adventures of Sri Lanka.
 
