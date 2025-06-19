@@ -1,14 +1,34 @@
-# Run and deploy your AI Studio app
+# 🇱🇰 Sri Lanka Tourism Website
 
-This contains everything you need to run your app locally.
+A modern, responsive website built with **Vite** and **React** to promote the beautiful travel destinations, culture, and adventures of Sri Lanka.
 
-## Run Locally
+## 🌴 Features
 
-**Prerequisites:**  Node.js
+- 📍 Explore popular tourist destinations across the island
+- 🏞️ Stunning visual sections with images and descriptions
+- 🌐 Fully responsive design for mobile, tablet, and desktop
+- 🚀 Fast performance powered by **Vite**
+- 🎨 Styled with modern CSS/React libraries
 
+## 🔧 Tech Stack
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [React Router](https://reactrouter.com/) (if used)
+- [TailwindCSS](https://tailwindcss.com/) or custom CSS (if used)
+
+## 📸 Screenshots
+
+_Add screenshots of your homepage or sections here_
+
+## 📁 Installation
+
+```bash
+# Clone the repo
+git clone https://github.com/yourusername/sri-lanka-tourism.git
+
+# Install dependencies
+npm install
+
+# Run the project
+npm run dev
