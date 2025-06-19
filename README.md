@@ -1,4 +1,5 @@
 # 🇱🇰 Sri Lanka Tourism Website
+![Uploading Screenshot (379).png…]()
 
 A modern, responsive website built with **Vite** and **React** to promote the beautiful travel destinations, culture, and adventures of Sri Lanka.
 
@@ -17,9 +18,6 @@ A modern, responsive website built with **Vite** and **React** to promote the be
 - [React Router](https://reactrouter.com/) (if used)
 - [TailwindCSS](https://tailwindcss.com/) or custom CSS (if used)
 
-## 📸 Screenshots
-
-_Add screenshots of your homepage or sections here_
 
 ## 📁 Installation
 
